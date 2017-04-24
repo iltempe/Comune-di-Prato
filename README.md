@@ -1,6 +1,8 @@
 # Prato News
 Comunicati Stampa del Comune di Prato dal 2004 al 2017
 I dati sono prelevati da http://comunicati.comune.prato.it/generali/ licenza CC BY.
+E' sufficiente lanciare il comando php data_news.php e lo script genera i file CSV dei dati estraendoli dal sito.
+
 I dataset in formato CSV sono composti come segue:
 - ID della notizia ricavata dal sito
 - URL link alla notizia pubblicata sul sito del Comune di Prato
